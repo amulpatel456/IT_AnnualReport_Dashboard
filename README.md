@@ -4,7 +4,7 @@
 
 The project involved the creation of a visually impactful dashboard using Power BI to represent an IT company's annual expenditure report. The data sources included multiple tables such as actuals, cost, budget, departments, regions, and forecast, which were connected using relationship management. KPIs and measures were created to personalize the reports, and the dashboard was designed to help the company make better decisions based on their future business.
 
-# Project Report
+# Project Report:
 
 ### Introduction:
 This report outlines the details of the data visualization project created using Power BI to represent an IT company's annual expenditure report. The report covers the data sources used, the measures and formulas created, and the visualizations developed.
